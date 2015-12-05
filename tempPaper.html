@@ -1,0 +1,31 @@
+<template name="tempPaper">
+<tr>
+<td>{{paperNumber}}</td>
+<td>{{paperName}}</td>
+<td>{{presenter}}</td>
+<td>
+	<select type="text" name="upMember" value={{member}}>
+ 		<option value="resident">Resident</option>
+ 		<option value="member1">Member/Institution</option>
+ 		<option value="member2">Member/Non-institution</option>
+ 	</select>
+ </td>
+ <td>
+ 	<input type="number" value={{science}} name="upScience" min=0 max=5 step=0.5>
+ </td>
+ <td>
+ 	<input type="number" value={{presentation}} name="upPresentation" min=0 max=5 step=0.5>
+ </td>
+ <td>
+ 	<input type="number" value={{importance}} name="upImportance" min=0 max=5 step=0.5>
+ </td>
+ <td>{{questions}}</td>
+ <td>{{average}}</td>
+ <td>
+ 	<a href="#" class="update-paper">Update</a>
+ </td>
+ <!-- <td>
+ 	<a href="#" class="delete-paper">Delete</a>
+</td> -->
+</tr>
+</template>

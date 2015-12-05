@@ -1,0 +1,430 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"member2"
+			],
+			[
+				"mem",
+				"member1"
+			],
+			[
+				"documn",
+				"documentId"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"to",
+				"toFixed(digits)"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"pres",
+				"presenter	(?)"
+			],
+			[
+				"paper",
+				"paperNumber"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "judger.html",
+			"settings":
+			{
+				"buffer_size": 2480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tempPaper.html",
+			"settings":
+			{
+				"buffer_size": 827,
+				"line_ending": "Unix",
+				"name": "<template name=\"tempPaper\">"
+			}
+		},
+		{
+			"file": "judger.js",
+			"settings":
+			{
+				"buffer_size": 3505,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"la",
+				"LaTeXTools: Reconfigure and migrate settings"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/michaelconlin/judger"
+	],
+	"file_history":
+	[
+		"/Users/michaelconlin/judger/tempPaperItem.html",
+		"/Users/michaelconlin/Dropbox/R stuff/PSAinterruptedTimeSeries/PSAitsa.log",
+		"/Users/michaelconlin/Downloads/1 - 1 - Series Motivation (12_03).txt",
+		"/Users/michaelconlin/Dropbox/tadrosLetter.txt",
+		"/Users/michaelconlin/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/README.markdown",
+		"/Users/michaelconlin/Dropbox/Writings/newGuidelineEmail.markdown",
+		"/Users/michaelconlin/Dropbox/CV/conlincv.tex",
+		"/Users/michaelconlin/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/michaelconlin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/michaelconlin/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/michaelconlin/Dropbox/NWUS/Emails to speakers.txt",
+		"/Users/michaelconlin/Dropbox/NWUS/NWUS presidential address.md",
+		"/Users/michaelconlin/Library/Application Support/Sublime Text 3/Packages/User/html-html5skel.sublime-snippet",
+		"/Users/michaelconlin/Dropbox/OSTCourses/lab6obj1.css",
+		"/Users/michaelconlin/Dropbox/OSTCourses/lab6obj1.html",
+		"/Users/michaelconlin/Dropbox/Writings/personalStatement.markdown",
+		"/Users/michaelconlin/Dropbox/OSTCourses/lab5obj1.html",
+		"/Users/michaelconlin/Desktop/startpage.html",
+		"/Users/michaelconlin/Dropbox/Writings/Poster Preparation Tips.markdown",
+		"/Users/michaelconlin/Dropbox/Writings/NWUSemail.html",
+		"/Users/michaelconlin/Dropbox/Writings/emailToNWUS.html",
+		"/Users/michaelconlin/Dropbox/Writings/emailToNWUS.markdown",
+		"/Users/michaelconlin/Dropbox/Writings/CQOD.markdown",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/michaelconlin/Desktop/git clone https:::github.com:ryepdx:meteor-chat.gi",
+		"/Users/michaelconlin/leaderboard/leaderboard.html",
+		"/Users/michaelconlin/Dropbox/LaTex Documents/NWUS letter to exhibitors/letter to exhibitors.tex",
+		"/Users/michaelconlin/Dropbox/NWUS/NWUS 2014/Letters/2014 thank you to 2013 exhibitors.txt",
+		"/Users/michaelconlin/Dropbox/LaTex Documents/Latex Templates/letter/letter with logo.tex",
+		"/Users/michaelconlin/Dropbox/CV/conlincv.txt",
+		"/Users/michaelconlin/Dropbox/NWUS/NWUS 2014/email to PC 20131207.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<p>",
+			"</p>",
+			"</span>",
+			"<p><span>",
+			"Association",
+			"<p><span>",
+			"p><span>",
+			"&amp;",
+			"<br />",
+			"<br />1",
+			"&amp;",
+			"Texas",
+			"br /",
+			"deigo",
+			"aua annual meeting"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Diego",
+			"AUA Annual Meeting"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "judger.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 692.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tempPaper.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								749,
+								805
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<template name=\"tempPaper\">",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "judger.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2025,
+								2025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "judger.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
