@@ -3,11 +3,16 @@
 </head>
 
 <body>
-<h2>Judger</h2>
+<header class="navbar navbar-default" role="navigation"> 
+      <div class="navbar-header">
+        <a class="navbar-brand" href="/">Judger</a>
+      </div>
+    </header>
+
  	<div class="container">
- 		<header>
+ 		
  			<h3>New Paper</h3>
- 		</header>
+ 		
  		<form class="new-paper">
  			<input type="text" name="paperNumber" placeholder="New Paper Number">
  			<input type="text" name="paperName" placeholder="New Paper Name">
@@ -25,24 +30,26 @@
  		</form>
  	</div>
  	<div class="container">
- 	<header>
- 		<h3>Resident Papers</h3>
- 	</header>
- 		<table>
- 		<tr><th>Abstract #</th>
- 		<th>Title</th>
- 		<th>Presenter</th>
- 		<th>Status</th>
- 		<th>Science</th>
- 		<th>Presentation</th>
- 		<th>Importance</th>
- 		<th>Qs</th>
- 		<th>Score</th>
- 		</tr>
- 		{{#each resPapers}}
- 		{{> tempPaper}}
- 		{{/each}}
- 		</table>
+ 	<div class="panel panel-default">
+	 	<div class="panel-heading">Resident Papers</div>
+	 		<div class="panel-body">
+		 		<table>
+			 		<tr><th>Abstract #</th>
+			 		<th>Title</th>
+			 		<th>Presenter</th>
+			 		<th>Status</th>
+			 		<th>Science</th>
+			 		<th>Presentation</th>
+			 		<th>Importance</th>
+			 		<th>Qs</th>
+			 		<th>Score</th>
+			 		</tr>
+			 		{{#each resPapers}}
+			 		{{> tempPaper}}
+			 		{{/each}}
+		 		</table>
+	 		</div>
+	 	</div>
  	<header>
  		<h3>Member/institution Papers</h3>
  	</header>
